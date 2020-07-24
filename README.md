@@ -29,6 +29,6 @@ The results are saved to a tab-delimited file (CSV) with the following columns:
  
  
 ## Installation
-To run this script, the psychopy python library is required. After cloning or downloading this repository, run main.py to launch the experiment. The number of trials to run, SOA, and output file name are given as command line arguments: <br>
-python3 main.py <number of trials to run (int)> <SOA in number of refresh frames (int)> <output file name>
+To run this script, the psychopy python library is required. After cloning or downloading this repository, run main.py to launch the experiment. The number of trials to run, SOA, and output file name are given as command line arguments:
 
+python3 main.py < number of trials to run > < SOA in number of refresh frames > < output file name >
